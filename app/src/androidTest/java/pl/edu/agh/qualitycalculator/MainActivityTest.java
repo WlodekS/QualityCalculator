@@ -52,6 +52,8 @@ public class MainActivityTest {
         onView(withId(R.id.tvResult)).check(matches(withText("4.0 multiplied by 4.0 gives value 16.0")));
     }
 
+    //komentarz
+
 
 //    @Test
 //    public void testDIV(){
