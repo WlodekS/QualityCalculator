@@ -24,5 +24,11 @@ public enum Operation {
         public String toString() {
             return "divided by";
         }
+    },
+    AA {
+        @Override
+        public String toString() {
+            return "AA by";
+        }
     }
 }
